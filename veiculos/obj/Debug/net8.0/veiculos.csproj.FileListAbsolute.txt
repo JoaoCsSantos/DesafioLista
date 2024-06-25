@@ -1,0 +1,14 @@
+C:\Users\lumis\OneDrive\Área de Trabalho\aula\veiculos\bin\Debug\net8.0\veiculos.exe
+C:\Users\lumis\OneDrive\Área de Trabalho\aula\veiculos\bin\Debug\net8.0\veiculos.deps.json
+C:\Users\lumis\OneDrive\Área de Trabalho\aula\veiculos\bin\Debug\net8.0\veiculos.runtimeconfig.json
+C:\Users\lumis\OneDrive\Área de Trabalho\aula\veiculos\bin\Debug\net8.0\veiculos.dll
+C:\Users\lumis\OneDrive\Área de Trabalho\aula\veiculos\bin\Debug\net8.0\veiculos.pdb
+C:\Users\lumis\OneDrive\Área de Trabalho\aula\veiculos\obj\Debug\net8.0\veiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lumis\OneDrive\Área de Trabalho\aula\veiculos\obj\Debug\net8.0\veiculos.AssemblyInfoInputs.cache
+C:\Users\lumis\OneDrive\Área de Trabalho\aula\veiculos\obj\Debug\net8.0\veiculos.AssemblyInfo.cs
+C:\Users\lumis\OneDrive\Área de Trabalho\aula\veiculos\obj\Debug\net8.0\veiculos.csproj.CoreCompileInputs.cache
+C:\Users\lumis\OneDrive\Área de Trabalho\aula\veiculos\obj\Debug\net8.0\veiculos.dll
+C:\Users\lumis\OneDrive\Área de Trabalho\aula\veiculos\obj\Debug\net8.0\refint\veiculos.dll
+C:\Users\lumis\OneDrive\Área de Trabalho\aula\veiculos\obj\Debug\net8.0\veiculos.pdb
+C:\Users\lumis\OneDrive\Área de Trabalho\aula\veiculos\obj\Debug\net8.0\veiculos.genruntimeconfig.cache
+C:\Users\lumis\OneDrive\Área de Trabalho\aula\veiculos\obj\Debug\net8.0\ref\veiculos.dll
